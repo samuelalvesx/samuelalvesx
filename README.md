@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Olá, eu sou Samuel
 
+<!--[Uma frase curta sobre você]-->
+ 
+🚀 Atualmente Cursando Engenharia de software
+📍 Saquarema - RJ
+
+---
+
+## 🧑‍💻 Sobre mim
+
+- 🌱 Atualmente estou aprendendo: [tecnologias]#não quero por uma tecnologia em específico
+- 🎯 Meu objetivo: [objetivo profissional] #não vou por pq não tenho um exatamente
+- 💡 Tenho interesse em: Backend/Fullstack #porém tenho interesse em outras por isso não queria nichar muito
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens
+- Python
+- JavaScript
+- TypeScript
+- Java
+
+### Frameworks e ferramentas
+- React
+- Node.js
+- Git
+- Docker
+- PostgreSQL
 <!--
-**samuelalvesx/samuelalvesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### [Nome do projeto]
+[Breve descrição do projeto]
+
+🔗 [Link do repositório]
+
+### [Nome do projeto]
+[Breve descrição do projeto]
+
+🔗 [Link do repositório]
+
+---
 -->
+## 📊 GitHub Stats
+
+[Estatísticas do GitHub] #não sei como por isso 
+
+---
+
+## 📫 Onde me encontrar
+
+<!---- 💼 LinkedIn: [seu LinkedIn]-->
+- 📧 Email: devsamuelx@gmail.com
+<!--- 🌐 Portfólio: [seu site]
+- 📸 Instagram: [opcional]
+- -->
+---
+
+⭐ Se algum dos meus projetos te ajudar, considere deixar uma estrela!
+
